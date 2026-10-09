@@ -1,0 +1,5 @@
+Scenario,QoS Satisfaction (%),Resource Utilization (%),Bandwidth Utilization (%),CPU Utilization (%),Energy Consumption (MJ),Throughput (Mbps),End-to-End Latency (ms)
+Low Traffic,100.00,30.98,31.66,30.30,153.74,27.29,5.2618
+Medium Traffic,100.00,45.38,46.41,44.34,175.06,39.99,5.0450
+High Traffic,100.00,54.83,56.09,53.56,190.43,48.79,5.0870
+Highly Dynamic,100.00,62.12,63.56,60.68,203.19,56.00,5.2564
